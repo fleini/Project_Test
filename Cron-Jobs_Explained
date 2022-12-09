@@ -1,0 +1,19 @@
+* * * * * *
+
+Jeden 18.Februar um 14:30:00 Uhr:
+00 30 14 18 2 *
+
+Jede volle Stunde:
+0 0 * * * * 
+
+Jeden Tag um 00:00:00 Uhr:
+0 0 0 * * *
+
+Jeden Sonntag um 00:0:00 Uhr:
+0 0 0 * * SUN
+
+Jeden 15. eines jeden Monats um 00:00:00 Uhr:
+0 0 0 15 * *
+
+Jedes Jahr am 15.Januar um 00:00:00 Uhr:
+0 0 0 15 1 *
